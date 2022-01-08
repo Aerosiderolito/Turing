@@ -1,0 +1,194 @@
+{
+  "tests": [
+    {
+      "name": "test_strlen_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_strlen_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_strlen_2",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_strlen_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_strlen_3",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_strlen_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_no_of_lines_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_no_of_lines_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_no_of_lines_2",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_no_of_lines_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_no_of_lines_3",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_no_of_lines_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_no_of_lines_4",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_no_of_lines_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_readline_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_readline_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_readline_2",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_readline_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_memcpy_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_memcpy_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_2",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_3",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_4",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_5",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_execute_6",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_execute_6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_parse_line_1",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_parse_line_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "test_parse_line_2",
+      "setup": "",
+      "run": "cd test && make singletest FOO=test_parse_line_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "all tests",
+      "setup": "",
+      "run": "cd test && make alltests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 100
+    }
+  ]
+}
